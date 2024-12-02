@@ -454,3 +454,674 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjr
 JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6265 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC cloExiting due to channel error.
+[GFX1[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[[Exiting due to channel error.
+[G[GFX1-]: Composi[GExiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeCh[F[1733116080944	geckodriver	INFO	Listening on 127.0.0.1:50242
+1733116084080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNbiZR8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733116084656	Marionette	INFO	Marionette enabled
+1733116084876	Marionette	INFO	Listening on port 50250
+WebDriver BiDi listening on ws://127.0.0.1:50243
+Read port: 50250
+1733116084996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2441 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1153 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2005 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 80: Script terminated by timeout at:
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:735
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Bd/k/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:510
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+1733116137460	Marionette	INFO	Stopped listening on port 50250
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733116208086	geckodriver	INFO	Listening on 127.0.0.1:50693
+1733116211180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDk41y6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733116211675	Marionette	INFO	Marionette enabled
+1733116211858	Marionette	INFO	Listening on port 50702
+WebDriver BiDi listening on ws://127.0.0.1:50694
+Read port: 50702
+1733116212077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:569
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:436
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+T/</</d<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:355
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Se/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1063
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+e@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:141:132
+f@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:111
+Eh/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:214
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 143: TypeError: this._listeners is undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 59: Script terminated by timeout at:
+Ob@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:59:314
+Mh.prototype.querySelectorAll@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:140:161
+go@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:242:943
+vs/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:322:300
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:480
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+T/</</d<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:355
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=224758cec00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=224758cec00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=22476de0800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=22476de0800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6676 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5548 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428793, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428793:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428793:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6458 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963, line 440: Script terminated by timeout at:
+JB/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:440:173
+Nf@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:99:5
+JB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:440:150
+QB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:445:337
+OB.prototype.sendBeacon@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:446:118
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:445:144
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887428963:442:342
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2279 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133, line 98: Script terminated by timeout at:
+Nf@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133:98:852
+JB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133:440:150
+QB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133:445:337
+OB.prototype.sendBeacon@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133:446:118
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133:445:144
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429133:442:342
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429303, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429303:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_887429303:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:534
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:304
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Bd/k/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:510
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115010322, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115010322:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115010322:442:29
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115010686, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115010686:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115010686:442:29
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011050, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011050:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011050:442:29
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011232, line 445: Script terminated by timeout at:
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011232:445:122
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011232:442:342
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011414, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011414:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_115011414:442:29
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8580719565238405%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8580719565238405%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8580719565238405%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4050 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13674
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript warning: https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js, line 319: Script terminated by timeout at:
+Us/<@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:319:647
+xg@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:96:648
+Us@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:319:525
+et@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:326:208
+at.prototype.sendBeacon@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:327:49
+Ws@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:325:452
+at/this.Ir@https://www.gstatic.com/admanager/outstream/rewarded_web_video_en.js:321:344
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.4366170059154717%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.4366170059154717%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.4366170059154717%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.4366170059154717%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1365876593, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1365876593:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1365876593:442:29
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3879 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=2247531fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=2247531fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=224759b2c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13248, MediaDecoderStateMachine #1] WARNING: Decoder=224759b2c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6080 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.03124361400233966%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.03124361400233966%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22LVDzIl9tMW5tdTV2Q3l0V1psVzlVc1ZxejNBTFRjck5TdEdQc1BGcWNBSVczYmdoV0VYcCUyRjRUYzlDQlRHZnQyeDlveFVWOXBhbzVPRVowQXVxVXZhVyUyRmhMb2VzZUdCRUxJTW5DbkVGZmc4ekFXWVVndFVpdmE3UndUNTBqUlglMkZGN1dHJTJCbHo2OGw2S2RraiUyRkxZbFVycjlYN0FnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.03124361400233966%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6833 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5372 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6685 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+play.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+k@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:478
+Bd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:682
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Uc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:87:81
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+od/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:372
+Nd.prototype.Ye@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:332
+Yd.prototype.execute@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:97:601
+Pd.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:457
+Yd.prototype.D@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:97:476
+hd.prototype.D@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:512
+od/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:350
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+Bd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:641
+Cd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:975
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+Ue/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1223
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+os.prototype.start@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:310:266
+Vr.prototype.start@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:302:161
+@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:354:283
+@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:354:372
+@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:354:382
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13742
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 143: TypeError: this._listeners is undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1003201644, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1003201644:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1003201644:442:29
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6587 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_302619532, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_302619532:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_302619532:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733116395403	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116395403	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116395403	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/9772.0967c8fb7beae0056cf7.js, line 15: TypeError: window.ChartApiInstance is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:534
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:436
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1037799457, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1037799457:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1037799457:442:29
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1769959705, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1769959705:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1769959705:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733116414958	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116414959	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116414960	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116414961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116414961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3030 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7405 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733116425124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733116425126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733116427223	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_577179984, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_577179984:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_577179984:442:29
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.22769204371873064%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.22769204371873064%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.22769204371873064%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://stat2.moneycontrol.com/assets/js/stocks/stockdetails.js?v=33.51, line 1014: ReferenceError: checkTimeSpan is not defined
+1733116433816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1913 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733116443791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116443792	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116443792	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116443793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733116443793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+ax@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:14741
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15326
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/9772.0967c8fb7beae0056cf7.js, line 15: TypeError: window.ChartApiInstance is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3580 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1785 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733116467727	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733116467774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=2366625d000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=2366625d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/lightweight-charts@3.1.3/dist/lightweight-charts.standalone.production.js, line 7: Error: Cannot update oldest data, last time=1733136300, new time=1733136240
+JavaScript error: https://unpkg.com/lightweight-charts@3.1.3/dist/lightweight-charts.standalone.production.js, line 7: Error: Cannot update oldest data, last time=1733136300, new time=1733136240
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174665675, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174665675:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174665675:442:29
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174666209, line 445: Script terminated by timeout at:
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174666209:445:122
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174666209:442:342
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174666391, line 442: Script terminated by timeout at:
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1174666391:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:503
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:436
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mmqPYV9ER1dieDR4Y3NtNDJaU282RjdBaUs0N1pxYkZVOENPU3B2eGU3OTh1UlZmZFF0VTFGaVVQS1IycW5jMmhKZ0trdERKWmVMMFFxUTgyUiUyRnBYSnVXT292QlU2bExwT3dXcEJNTU1vJTJGT3MwU3Y0MzlZb2FyU3VhU0NyN3RLckNPMW9LQjAwSnBnZjYzajFWb2w0NzMwaW53JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.17258337470035434%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mmqPYV9ER1dieDR4Y3NtNDJaU282RjdBaUs0N1pxYkZVOENPU3B2eGU3OTh1UlZmZFF0VTFGaVVQS1IycW5jMmhKZ0trdERKWmVMMFFxUTgyUiUyRnBYSnVXT292QlU2bExwT3dXcEJNTU1vJTJGT3MwU3Y0MzlZb2FyU3VhU0NyN3RLckNPMW9LQjAwSnBnZjYzajFWb2w0NzMwaW53JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.17258337470035434%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mmqPYV9ER1dieDR4Y3NtNDJaU282RjdBaUs0N1pxYkZVOENPU3B2eGU3OTh1UlZmZFF0VTFGaVVQS1IycW5jMmhKZ0trdERKWmVMMFFxUTgyUiUyRnBYSnVXT292QlU2bExwT3dXcEJNTU1vJTJGT3MwU3Y0MzlZb2FyU3VhU0NyN3RLckNPMW9LQjAwSnBnZjYzajFWb2w0NzMwaW53JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.17258337470035434%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mmqPYV9ER1dieDR4Y3NtNDJaU282RjdBaUs0N1pxYkZVOENPU3B2eGU3OTh1UlZmZFF0VTFGaVVQS1IycW5jMmhKZ0trdERKWmVMMFFxUTgyUiUyRnBYSnVXT292QlU2bExwT3dXcEJNTU1vJTJGT3MwU3Y0MzlZb2FyU3VhU0NyN3RLckNPMW9LQjAwSnBnZjYzajFWb2w0NzMwaW53JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.17258337470035434%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5454 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1168 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2874 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/lightweight-charts@3.1.3/dist/lightweight-charts.standalone.production.js, line 7: Error: Cannot update oldest data, last time=1733137020, new time=1733136960
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951033, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951033:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951033:442:29
+
+JavaScript error: https://unpkg.com/lightweight-charts@3.1.3/dist/lightweight-charts.standalone.production.js, line 7: Error: Cannot update oldest data, last time=1733137020, new time=1733136960
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951579, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951579:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951579:442:29
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951761, line 445: Script terminated by timeout at:
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951761:445:122
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951761:442:342
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951943, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951943:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1500951943:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 267: Script terminated by timeout at:
+Xp@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:267:1292
+Yp/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:267:1439
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:480
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+jf/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:1288
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Bd/k/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:510
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2135 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3790 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_775144850, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_775144850:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_775144850:442:29
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_775145396, line 445: Script terminated by timeout at:
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_775145396:445:122
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_775145396:442:342
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22IRP2jF9ER1dieDR4Y3NtNDJaU282RjdBaUs3ZEF6VTJybzhtOGROUUUlMkI3WmtPNnRGZ1RFWThJT1dVR0dhVjhCeVZ5QTFtYTclMkJYN281aXhxa2tIa2U4JTJCQkhtZXpLWXNKR0xCRCUyRmJ4b2Ryd0NaS0VpYlJjMFRTNk9BSXRQUjh1akNZellaZ2pDQSUyRnRNQ2pmN2UwbDFDYTUwSkR3JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5374600457255571%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22IRP2jF9ER1dieDR4Y3NtNDJaU282RjdBaUs3ZEF6VTJybzhtOGROUUUlMkI3WmtPNnRGZ1RFWThJT1dVR0dhVjhCeVZ5QTFtYTclMkJYN281aXhxa2tIa2U4JTJCQkhtZXpLWXNKR0xCRCUyRmJ4b2Ryd0NaS0VpYlJjMFRTNk9BSXRQUjh1akNZellaZ2pDQSUyRnRNQ2pmN2UwbDFDYTUwSkR3JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5374600457255571%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22IRP2jF9ER1dieDR4Y3NtNDJaU282RjdBaUs3ZEF6VTJybzhtOGROUUUlMkI3WmtPNnRGZ1RFWThJT1dVR0dhVjhCeVZ5QTFtYTclMkJYN281aXhxa2tIa2U4JTJCQkhtZXpLWXNKR0xCRCUyRmJ4b2Ryd0NaS0VpYlJjMFRTNk9BSXRQUjh1akNZellaZ2pDQSUyRnRNQ2pmN2UwbDFDYTUwSkR3JTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5374600457255571%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7153 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_2024408696, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_2024408696:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_2024408696:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3647 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/lightweight-charts@3.1.3/dist/lightweight-charts.standalone.production.js, line 7: Error: Cannot update oldest data, last time=1733138400, new time=1733138340
+JavaScript error: https://unpkg.com/lightweight-charts@3.1.3/dist/lightweight-charts.standalone.production.js, line 7: Error: Cannot update oldest data, last time=1733138400, new time=1733138340
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: Script terminated by timeout at:
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:13850
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:15290
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=23666215800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=23666215800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=2366620d000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=2366620d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2885 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
