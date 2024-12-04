@@ -761,34 +761,54 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8
 JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5372 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6685 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-play.js:91:441
-kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
-n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
-k@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:478
-Bd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:682
-L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
-n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
-n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
-n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
-ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
-Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
-Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
-Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
-ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
-vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
-n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
-n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
-Uc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:87:81
-n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
-n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
-ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
-n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
-n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
-od/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:372
-Nd.prototype.Ye@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:332
-Yd.prototype.execute@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:97:601
-Pd.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:457
-Yd.prototype.D@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:97:476
+[GFX1-]: CompositorBridgeChild receives IPC close with reas[Gon=AbnormalShutdown
+[GFX1-]: CompositorBridgeC[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalSh[GFX1-]: CompositorBridgeChild rece[GFX1-]:[GFX1-]: CoFhimiv[GFX[G1-[G CeFX1-]: CompFX1-]: C[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild oo[GFX1-]: CompositorBri[GFX1-]: CompositorBridgedgeChild rldChild receives IPC close with r[GF[[GX1-]G]:: ComFpXositorBridgeChild receives IPC 1[GF-]: X1-]:sCreompositoc rB[GFX1-]:[GFX1-]: CompositorBridgeChild rec[ ei[GGFX1-]:[Fves IPC close with reason=Ab[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+r[GFX1-]: Composito[GFX1-]: CompositorBridgeChild receives IPC close with reason=Abnorma[GFX1rB -]: Composi[GFX1-]: CompositorBridgeChild rp eivoGF[Ge Co[ridcFX1CGF[geChild rceceieves IPi-C]GX1-FX1-]: ComIPves pCI: Compositositerl]Pmod c: rBridgeChild receives IPC closCompeitorBgeose wC close eceivith reaChild res IPridge ceceives IPC close with reasomposiChild recason=ositon=Abnson=AbnorBridormallose C clotorBrpositregAbnoridgwith reason=AbnormalShutdown
+lose with reason=ASomiebmalShutdes IPCwithsown
+e with reason=AbnormalShutdown
+Child receives IPC close with reason=AbnormalShutdown
+ oreves IPC wBridgerChildclose ith reason=Abnormal a nShChillShhutdown
+utdown
+woutdoith rerXr1-dutdowmreFXB wCn
+alShutdown
+ason=AbnormalShutdown
+ceives IPC closeeasoridgeChild r cecein=A witv receloses Ibnorives IPC close wmPC close with reason=AbnormalShutdowni
+e wihttExiting due to channel error.
+alShuh t readoson=Ah wn
+reason=AbnormalShureason=bAbnormalShutdown
+normalShutdown
+tdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+lShutdown
+X1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+ositorBridgeChild receives IPC close with reason=AbnormalShutdown
+]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+n
+ositorBridgeChild receives IPC close with reason=AbnormalShutdown
+mpositorBridgeChild receives IPC close with reason=AbnormalShutdown
+mpositorBridgeChild receives IPC close with reason=AbnormalShutdown
+eceives IPC close with reason=AbnormalShutdown
+1-]: CompositorBridgeChild receives IPC close with reason=AbnorCompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+malShutdown
+ompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+normalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+s/activeview/current/ufs_web_display.js:97:476
 hd.prototype.D@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:512
 od/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:350
 kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
@@ -1125,3 +1145,17 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8
 [Child 13128, MediaDecoderStateMachine #1] WARNING: Decoder=2366620d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
 JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2885 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdExiting due to channel error.
+[GFX1-]: CompositorBridgeChild rece[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GExiting due to channel error.
+[GFX[F[GFX1-]: CompositorBridgeChild receives IPC close with reaso[GFX1-]: CompositorBridgeChild receives IPC close with reaso[GFX1-]: Composito[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+rBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
