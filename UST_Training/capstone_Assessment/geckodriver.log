@@ -1,0 +1,25 @@
+1733997836661	geckodriver	INFO	Listening on 127.0.0.1:50254
+1733997840852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaYMFwy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733997841469	Marionette	INFO	Marionette enabled
+1733997841815	Marionette	INFO	Listening on port 50263
+WebDriver BiDi listening on ws://127.0.0.1:50255
+Read port: 50263
+1733997842133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733997859848	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733997859850	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733997859851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-fb9db9890e761476.js, line 27: Error: {}
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-fb9db9890e761476.js, line 27: Error: {}
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-fb9db9890e761476.js, line 27: Error: {}
+1733998088971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733998088971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733998088972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript warning: https://www.imdb.com/find/?q=amaran&ref_=nv_sr_sm, line 1349: Script terminated by timeout at:
+timeout/a.ue_cel<@https://www.imdb.com/find/?q=amaran&ref_=nv_sr_sm:1349:105
+
+1733998092408	Marionette	INFO	Stopped listening on port 50263
+Dynamically enable window occlusion 1
